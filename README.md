@@ -1,7 +1,7 @@
 # font-cicle from you website
 
 ## Usage
-* Add the package depending on your **composer.json** file
+* Add the package on your **composer.json** file
 ```php
 composer require webtack/font-circe
 ```
