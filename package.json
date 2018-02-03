@@ -1,0 +1,17 @@
+{
+  "name": "webtack/font-circe",
+  "description": "Circe is a geometric sans-serif with some humanist features in 6 weights from Thin to Extra Bold.",
+  "keywords": ["font", "circe", "web", "site", "html", "css", "frontend"],
+  "homepage": "https://www.howtomake.com.ua/fonts/circe-regular.html",
+  "license": "MIT",
+  "version": "1.0.0",
+
+  "authors": [
+    {
+      "name": "Ruslan Bilyshko",
+      "email": "ruslan.bilyshko@gmail.com",
+      "homepage": "http://www.webtochka.net",
+      "role": "Developer"
+    }
+  ]
+}
